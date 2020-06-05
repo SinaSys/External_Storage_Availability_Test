@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/External_Storage_Availability_Test.iml" filepath="$PROJECT_DIR$/External_Storage_Availability_Test.iml" group="External_Storage_Availability_Test" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="External_Storage_Availability_Test/app" />
+    </modules>
+  </component>
+</project>
